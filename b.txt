@@ -1,1 +1,1 @@
-'m b.txt
+newline in b.txt
